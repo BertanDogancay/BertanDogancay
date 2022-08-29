@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://bertandogancay.io)
+<img align="center" width="1000" height="300" src="https://user-images.githubusercontent.com/111835151/187206808-b7955ce9-bd9f-46ce-a6d2-56b0031c6bc2.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bertandogancay&label=Profile%20views&color=0e75b6&style=flat" alt="bertandogancay" /> </p>
 
