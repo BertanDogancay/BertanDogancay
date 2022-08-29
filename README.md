@@ -1,4 +1,4 @@
-<img align="center" width="1000" height="300" src="https://user-images.githubusercontent.com/111835151/187206808-b7955ce9-bd9f-46ce-a6d2-56b0031c6bc2.gif"/>
+<img src="https://user-images.githubusercontent.com/111835151/187207524-d44fd1ea-db72-4e24-8a58-24b9f11c8347.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bertandogancay&label=Profile%20views&color=0e75b6&style=flat" alt="bertandogancay" /> </p>
 
